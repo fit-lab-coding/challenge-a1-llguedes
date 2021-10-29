@@ -1,9 +1,8 @@
 package fit.challenge;
 
-//import fit.challenge.ImcCalculator;
-
 import org.junit.Assert;
 import org.junit.Test;
+import fit.challenge.ImcCalculator;
 
 /**
  * Testes unitários para o "desafio"
